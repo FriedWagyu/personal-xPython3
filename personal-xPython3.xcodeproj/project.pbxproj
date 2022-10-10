@@ -6,10 +6,15 @@
 	objectVersion = 56;
 	objects = {
 
+/* Begin PBXFileReference section */
+		320168C928F4571E003C9F87 /* huobi-gold-dog.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "huobi-gold-dog.py"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		320168BD28F45670003C9F87 = {
 			isa = PBXGroup;
 			children = (
+				320168C928F4571E003C9F87 /* huobi-gold-dog.py */,
 			);
 			sourceTree = "<group>";
 		};
