@@ -8,12 +8,14 @@
 
 /* Begin PBXFileReference section */
 		320168C928F4571E003C9F87 /* huobi-gold-dog.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "huobi-gold-dog.py"; sourceTree = "<group>"; };
+		3215C05429B3B73000D5920D /* api-enquiry.py */ = {isa = PBXFileReference; lastKnownFileType = text.script.python; path = "api-enquiry.py"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXGroup section */
 		320168BD28F45670003C9F87 = {
 			isa = PBXGroup;
 			children = (
+				3215C05429B3B73000D5920D /* api-enquiry.py */,
 				320168C928F4571E003C9F87 /* huobi-gold-dog.py */,
 			);
 			sourceTree = "<group>";
